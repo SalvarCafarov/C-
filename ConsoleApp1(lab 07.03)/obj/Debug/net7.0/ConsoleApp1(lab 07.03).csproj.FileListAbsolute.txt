@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\bin\Debug\net7.0\ConsoleApp1(lab 07.03).exe
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\bin\Debug\net7.0\ConsoleApp1(lab 07.03).deps.json
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\bin\Debug\net7.0\ConsoleApp1(lab 07.03).runtimeconfig.json
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\bin\Debug\net7.0\ConsoleApp1(lab 07.03).dll
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\bin\Debug\net7.0\ConsoleApp1(lab 07.03).pdb
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ConsoleApp1(lab 07.03).csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ConsoleApp1(lab 07.03).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ConsoleApp1(lab 07.03).AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ConsoleApp1(lab 07.03).AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ConsoleApp1(lab 07.03).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ConsoleApp1(lab 07.03).dll
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\refint\ConsoleApp1(lab 07.03).dll
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ConsoleApp1(lab 07.03).pdb
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ConsoleApp1(lab 07.03).genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c#\ConsoleApp1(lab 07.03)\obj\Debug\net7.0\ref\ConsoleApp1(lab 07.03).dll
