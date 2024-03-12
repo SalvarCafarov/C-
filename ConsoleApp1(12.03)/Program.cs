@@ -80,25 +80,57 @@
 
 //task4
 
-int[] arr9 = { 1,9, 3, 8, 5, 4 };
-bool check = true;
-while (check)
+#region task4
+//int[] arr9 = { 1, 9, 3, 8, 5, 4,5,8 };
+//bool check = true;
+//int counter = 0;
+//while (check)
+//{
+//    check = false;
+//    for (int i = 0; i < arr9.Length - 1; i++)
+//    {
+//        int temp = 0;
+//        if (arr9[i] > arr9[i + 1])
+//        {
+//            temp = arr9[i];
+//            arr9[i] = arr9[i + 1];
+//            arr9[i + 1] = temp;
+//            check = true;
+//        }
+//            counter++;
+//    }
+//}
+//foreach (var item in arr9)
+//{
+//    Console.WriteLine(item);
+//}
+//Console.WriteLine(counter);
+
+#endregion
+
+
+int x1 = Convert.ToInt32(Console.ReadLine());
+int y1 = Convert.ToInt32(Console.ReadLine());
+int x2 = Convert.ToInt32(Console.ReadLine());
+int y2 = Convert.ToInt32(Console.ReadLine());
+int x3 = Convert.ToInt32(Console.ReadLine());
+int y3 = Convert.ToInt32(Console.ReadLine());
+
+int a = (y2-y1)/(x2-x1);
+int b = y1 - a * x1;
+
+if(y1==a*x1 + b && y2 == a * x2 +b && y3 == a * x3 + b)
 {
-    check = false;
-    Console.WriteLine("salam");
-    for(int i = 0; i < arr9.Length-1; i++)
-    {
-    int temp = 0;
-        if (arr9[i] > arr9[i + 1])
-        {
-            temp = arr9[i];
-            arr9[i] = arr9[i + 1];
-            arr9[i + 1] = temp;
-            check = true;
-        }
-    }
+
+    Console.WriteLine("dogru");
 }
-foreach (var item in arr9)
+else
 {
-    Console.WriteLine(item);
+    Console.WriteLine("yanlis");
 }
+
+
+Console.WriteLine("sasa");
+
+
+
