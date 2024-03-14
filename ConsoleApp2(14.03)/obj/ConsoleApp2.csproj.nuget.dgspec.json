@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2(14.03)\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2(14.03)\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2(14.03)\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2(14.03)\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\c#\\ConsoleApp2(14.03)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

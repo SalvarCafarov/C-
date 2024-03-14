@@ -55,7 +55,7 @@ foreach (string yas in yaslar)
 
 if (check)
 {
-    Console.WriteLine(true);
+    Console.WriteLine($"{checkInput} telebe var");
 }
 else
 {
